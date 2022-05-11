@@ -1,0 +1,5 @@
+{
+  "executable": "D:\\cc65\\bin\\cl65",
+  "input": "NESDemo.s",
+  "params": "--verbose --target nes -o NES-Game-demo.nes"
+}
