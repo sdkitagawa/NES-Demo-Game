@@ -32,4 +32,4 @@ It's pretty simple, all you need is `Visual Studio Code` or any other framework 
 
 5 - Last but not least, press `CTRL` + `P` (on Windows) or `CTRL` + `SHIFT` + `P` (on macOS) and type `Tasks: Run Build Task` and press `ENTER`.
 
-6 - Wait until the Assembling process is done and if you did everything correctly, there should now be a file called `NES-Game-demo.nes` inside the workspace.
+6 - Wait until the `assembling` process is done and if you did everything correctly, there should now be a file called `NES-Game-demo.nes` inside the workspace.
